@@ -31,3 +31,5 @@ IV. Allegro molto
 
 Rose Grace, piano  
 Performed at Bethune-Cookman University on February 10, 2019.
+
+This piece was originally for flute and basso continuo and was published in a set of 6 sonatas for flute. The arrangement for soprano saxophone and piano was made by Eugene Rousseau.
