@@ -10,7 +10,7 @@ last_name: Rosenberg
 superuser: true
 
 # Role/position/tagline
-role: Professor of Saxophone
+role: Adjunct Professor of Saxophone
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -54,7 +54,7 @@ social:
     display:
       header: true
   - icon: facebook
-    icon_pack: fas
+    icon_pack: fab
     link: https://facebook.com/timothyrosenberg
   - icon: linkedin
     icon_pack: fab
@@ -76,6 +76,6 @@ highlight_name: true
 
 I am the Adjunct Professor of Saxophone at Stetson University. My teaching interests include saxophone, chamber music, avant-garde music, and jazz improvisation. I also teach A&R in the Music Business department at Full Sail University.
 
-I frequently perform with several ensembles, including the Hippocrene Saxophone Quartet, the Brevard Symphony Orchestra and the Binghamton Symphony Orchestra. In the past I also performed with the H2 Quartet, the Hyperbaton Ensemble and the Cayuga Saxophone Quartet. I can be heard on _Intersecciones_ on the Ashes Records label and _Times & Spaces_ on Blue Griffin Records. 
+I frequently perform with several ensembles, including the Hippocrene Saxophone Quartet, the Brevard Symphony Orchestra and the Binghamton Symphony Orchestra. In the past I also performed with the H2 Quartet, the Hyperbaton Ensemble and the Cayuga Saxophone Quartet. I can be heard on _Intersecciones_ on the Ashes Records label and _Times & Spaces_ on Blue Griffin Records.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
