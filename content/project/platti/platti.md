@@ -9,7 +9,7 @@ date: '2019-02-10T00:00:00Z'
 external_link: ''
 
 image:
-  caption:
+  caption: February 10, 2019
   focal_point: Smart Center
 
 links:
@@ -22,7 +22,7 @@ url_pdf: ''
 url_slides: ''
 url_video: 'https://www.youtube.com/watch?v=o9SIKx6NMCo&list=PLUMyDQU7QaCdOYTBtoskFiDVwtsFM4mR5'
 ---
-{{< youtube o9SIKx6NMCo >}}
+{{< youtube PLUMyDQU7QaCdOYTBtoskFiDVwtsFM4mR5 >}}
 
 I. Grave  
 II. Allegro  
