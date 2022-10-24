@@ -25,7 +25,7 @@ experience:
   - title: Adjunct Professor of Saxophone
     company: Stetson University
     company_url: 'http://stetson.edu'
-    company_logo: org-gc
+    company_logo: stetson-seal
     location: Deland, FL
     date_start: '2022-08-15'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Adjunct Instructor of Saxophone
     company: Bethune-Cookman University
     company_url: 'http://cookman.edu'
-    company_logo: org-x
+    company_logo: bcu-seal
     location: Daytona Beach, FL
     date_start: '2016-08-15'
     date_end: '2022-05-15'
@@ -48,7 +48,7 @@ experience:
   - title: Professor of Music Business (Course Director)
     company: Full Sail University
     company_url: 'http://fullsail.edu'
-    company_logo: org-x
+    company_logo: full-sail-seal
     location: Winter Park, FL
     date_start: '2012-03-05'
     date_end: ''
@@ -57,7 +57,7 @@ experience:
   - title: Assistant Professor of Saxophone (Sabbatic Replacement)
     company: Ithaca College
     company_url: 'http://ithaca.edu'
-    company_logo: org-x
+    company_logo: ithaca-seal
     location: Ithaca, NY
     date_start: '2010-08-15'
     date_end: '2011-08-15'
