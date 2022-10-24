@@ -4,7 +4,7 @@ active: true
 headless: true
 weight: 10
 title: Hello!
-hero_media: Headshot.png
+hero_media: circle-headshot.png
 # cta:
   # label: '**Get Started**'
   # url: https://wowchemy.com/templates/
