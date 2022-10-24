@@ -1,6 +1,6 @@
 ---
 title: Sonata in G Major by Giovanni Platti
-summary: Timothy Rosenberg and Rose Grace perform Platti's Sonatain G Major
+summary: Timothy Rosenberg and Rose Grace perform Platti's Sonata in G Major
 tags:
   - Performances
 date: '2019-02-10T00:00:00Z'
@@ -22,6 +22,7 @@ url_pdf: ''
 url_slides: ''
 url_video: 'https://www.youtube.com/watch?v=o9SIKx6NMCo&list=PLUMyDQU7QaCdOYTBtoskFiDVwtsFM4mR5'
 ---
+{{< youtube o9SIKx6NMCo >}}
 
 I. Grave  
 II. Allegro  
