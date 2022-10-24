@@ -27,7 +27,7 @@ design:
 
 **I specialize in classical, avant-garde, jazz, and commercial music.**
 
-Check out my site.
+
 
 <!--Custom spacing-->
 <div class="mb-3"></div>

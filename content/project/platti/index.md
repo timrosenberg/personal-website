@@ -5,12 +5,8 @@ tags:
   - Performances
 date: '2019-02-10T00:00:00Z'
 
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-# image:
-  # caption: February 10, 2019
-  # focal_point: Smart
+image:
+  preview_only: true
 
 links:
   - icon: youtube
