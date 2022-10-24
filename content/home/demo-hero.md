@@ -1,6 +1,6 @@
 ---
 widget: hero
-active: false
+active: true
 headless: true
 weight: 10
 title: Hugo Academic Theme
