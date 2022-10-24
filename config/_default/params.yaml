@@ -61,7 +61,7 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: forest-light
+    theme_light: github-light
     theme_dark: dracula
   math:
     enable: false
