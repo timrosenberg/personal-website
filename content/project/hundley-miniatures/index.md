@@ -5,21 +5,15 @@ tags:
   - Performances
 date: '2020-03-17T14:30:00Z'
 
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-# image:
-  # caption: February 10, 2019
-  # focal_point: Smart
+image:
+  preview_only: true
 
 links:
   - icon: youtube
     icon_pack: fab
     name: Follow
     url: https://www.youtube.com/c/TimothyRosenberg
-url_code: ''
-url_pdf: ''
-url_slides: ''
+    
 url_video: 'https://www.youtube.com/watch?v=7VavtW6RGu4'
 ---
 {{< youtube 7VavtW6RGu4 >}}
