@@ -22,7 +22,7 @@ url_pdf: ''
 url_slides: ''
 url_video: 'https://www.youtube.com/watch?v=o9SIKx6NMCo&list=PLUMyDQU7QaCdOYTBtoskFiDVwtsFM4mR5'
 ---
-{{< youtube o9SIKx6NMCo >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUMyDQU7QaCdOYTBtoskFiDVwtsFM4mR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I. Grave  
 II. Allegro  
