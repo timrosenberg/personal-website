@@ -47,10 +47,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/timrosenberg
-    label: Follow me on Twitter
+    link: https://mastodon.social/@timrosenberg
+    label: Follow me on Mastodon
     display:
       header: true
   - icon: facebook

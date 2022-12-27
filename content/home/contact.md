@@ -26,10 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/timrosenberg'
     - icon: facebook
       icon_pack: fab
       name: Friend Me
