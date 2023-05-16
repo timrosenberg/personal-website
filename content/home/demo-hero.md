@@ -16,8 +16,8 @@ hero_media: circle-headshot.png
   #  <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
 design:
   background:
-    gradient_end: '#419638'
-    gradient_start: '#095540'
+    gradient_end: '#429C80'
+    gradient_start: '#006747'
     text_color_light: true
 # advanced:
 #   css_class: fullscreen
